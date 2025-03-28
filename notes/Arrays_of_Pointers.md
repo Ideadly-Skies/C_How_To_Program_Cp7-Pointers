@@ -1,0 +1,3 @@
+## Arrays of Pointers
+
+Array may contain pointers. A common use of an array of pointers is to form an array of strings, referred to simply as a string array. Each element in a C string is essentailly a pointer to its first character. So, each entry in an array of strings is actually a pointer to a string's first character. Consider the definition of the string array suit, which might be useful in representing a deck of cards 
